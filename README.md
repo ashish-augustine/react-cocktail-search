@@ -1,6 +1,6 @@
 ## Notes
 
-# Stock Photos
+# React Cocktail Search
 
 Project in Action -  [React Cocktail Search](https://lucent-centaur-d6204c.netlify.app/)   
 
