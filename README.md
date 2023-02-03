@@ -1,15 +1,13 @@
-#### React Router Fix
+## Notes
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+# Stock Photos
 
-#### CRA Fix
+Project in Action -  [React Cocktail Search](https://lucent-centaur-d6204c.netlify.app/)   
 
-```
-
-"build": "CI= react-scripts build",
-
-```
+#### Run The App Locally
 
 ```sh
-npm install react-router-dom@6
+npm run install && npm start
 ```
+
+- visit url http://localhost:3000/
