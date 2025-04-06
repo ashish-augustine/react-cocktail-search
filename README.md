@@ -5,7 +5,7 @@
 Project in Action -  [React Cocktail Search](https://lucent-centaur-d6204c.netlify.app/)   
 
 #### Terminal commands to run the app locally
-
+  
 ```sh
 npm run install && npm start
 ```
